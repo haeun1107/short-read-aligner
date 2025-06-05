@@ -10,7 +10,7 @@ using namespace std;
 using namespace chrono;
 
 // 최대 허용 mismatch 수 (즉, 편집 거리 허용치)
-const int MAX_ERROR = 10;
+const int MAX_ERROR = 20;
 
 // 시드 길이 (접두사 기반 검색 범위 지정용)
 const int SEED_LEN = 20;

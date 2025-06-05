@@ -8,7 +8,7 @@
 using namespace std;
 using namespace chrono;
 
-const int MAX_ERROR = 10;
+const int MAX_ERROR = 20;
 
 // ✅ 파일 입출력
 string loadReference(const string& file) {
