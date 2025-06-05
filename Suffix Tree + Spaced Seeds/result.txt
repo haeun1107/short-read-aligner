@@ -1,0 +1,1000 @@
+read index: 0 -> pos: 9342, mismatch: 0
+read index: 1 -> pos: 85865, mismatch: 0
+read index: 2 -> pos: 48383, mismatch: 0
+read index: 3 -> pos: 48572, mismatch: 0
+read index: 4 -> pos: 24552, mismatch: 1
+read index: 5 -> pos: 68847, mismatch: 0
+read index: 6 -> pos: 10653, mismatch: 0
+read index: 7 -> pos: 91970, mismatch: 0
+read index: 8 -> pos: 89051, mismatch: 0
+read index: 9 -> pos: 81447, mismatch: 0
+read index: 10 -> no match
+read index: 11 -> pos: 76418, mismatch: 0
+read index: 12 -> pos: 7867, mismatch: 0
+read index: 13 -> pos: 38685, mismatch: 0
+read index: 14 -> pos: 5945, mismatch: 0
+read index: 15 -> pos: 6096, mismatch: 1
+read index: 16 -> pos: 93035, mismatch: 0
+read index: 17 -> pos: 13952, mismatch: 0
+read index: 18 -> pos: 83132, mismatch: 1
+read index: 19 -> pos: 2167, mismatch: 0
+read index: 20 -> pos: 24050, mismatch: 0
+read index: 21 -> pos: 66535, mismatch: 0
+read index: 22 -> pos: 22813, mismatch: 0
+read index: 23 -> pos: 18006, mismatch: 0
+read index: 24 -> pos: 51956, mismatch: 0
+read index: 25 -> pos: 93453, mismatch: 0
+read index: 26 -> pos: 46758, mismatch: 1
+read index: 27 -> pos: 70986, mismatch: 0
+read index: 28 -> pos: 73731, mismatch: 1
+read index: 29 -> pos: 18602, mismatch: 0
+read index: 30 -> pos: 53938, mismatch: 1
+read index: 31 -> pos: 66958, mismatch: 0
+read index: 32 -> pos: 59400, mismatch: 0
+read index: 33 -> pos: 15931, mismatch: 0
+read index: 34 -> pos: 99429, mismatch: 0
+read index: 35 -> pos: 38502, mismatch: 0
+read index: 36 -> pos: 66956, mismatch: 0
+read index: 37 -> pos: 95715, mismatch: 0
+read index: 38 -> pos: 60119, mismatch: 0
+read index: 39 -> pos: 2316, mismatch: 1
+read index: 40 -> pos: 98702, mismatch: 0
+read index: 41 -> pos: 54654, mismatch: 0
+read index: 42 -> pos: 19985, mismatch: 0
+read index: 43 -> pos: 89672, mismatch: 0
+read index: 44 -> pos: 93996, mismatch: 0
+read index: 45 -> pos: 73215, mismatch: 1
+read index: 46 -> pos: 87769, mismatch: 0
+read index: 47 -> pos: 80269, mismatch: 1
+read index: 48 -> no match
+read index: 49 -> pos: 95800, mismatch: 0
+read index: 50 -> pos: 60225, mismatch: 0
+read index: 51 -> pos: 75688, mismatch: 0
+read index: 52 -> pos: 27398, mismatch: 0
+read index: 53 -> pos: 37289, mismatch: 0
+read index: 54 -> pos: 5737, mismatch: 0
+read index: 55 -> pos: 26258, mismatch: 0
+read index: 56 -> pos: 58016, mismatch: 0
+read index: 57 -> pos: 35958, mismatch: 1
+read index: 58 -> pos: 64519, mismatch: 0
+read index: 59 -> no match
+read index: 60 -> pos: 41113, mismatch: 1
+read index: 61 -> pos: 95017, mismatch: 1
+read index: 62 -> pos: 55437, mismatch: 1
+read index: 63 -> pos: 33392, mismatch: 0
+read index: 64 -> pos: 22086, mismatch: 1
+read index: 65 -> pos: 18761, mismatch: 0
+read index: 66 -> pos: 30057, mismatch: 0
+read index: 67 -> pos: 69280, mismatch: 0
+read index: 68 -> no match
+read index: 69 -> pos: 84582, mismatch: 1
+read index: 70 -> pos: 39452, mismatch: 1
+read index: 71 -> pos: 67513, mismatch: 0
+read index: 72 -> pos: 8540, mismatch: 1
+read index: 73 -> pos: 80815, mismatch: 0
+read index: 74 -> pos: 93795, mismatch: 0
+read index: 75 -> pos: 63212, mismatch: 0
+read index: 76 -> pos: 72023, mismatch: 0
+read index: 77 -> pos: 66508, mismatch: 0
+read index: 78 -> pos: 44129, mismatch: 1
+read index: 79 -> pos: 26899, mismatch: 0
+read index: 80 -> pos: 10700, mismatch: 0
+read index: 81 -> pos: 32346, mismatch: 0
+read index: 82 -> pos: 54858, mismatch: 0
+read index: 83 -> pos: 71289, mismatch: 0
+read index: 84 -> pos: 43683, mismatch: 0
+read index: 85 -> pos: 67336, mismatch: 1
+read index: 86 -> no match
+read index: 87 -> pos: 98556, mismatch: 0
+read index: 88 -> pos: 52908, mismatch: 0
+read index: 89 -> pos: 37886, mismatch: 0
+read index: 90 -> pos: 94753, mismatch: 0
+read index: 91 -> no match
+read index: 92 -> pos: 7605, mismatch: 1
+read index: 93 -> no match
+read index: 94 -> pos: 59236, mismatch: 1
+read index: 95 -> pos: 58741, mismatch: 0
+read index: 96 -> pos: 49331, mismatch: 0
+read index: 97 -> pos: 48137, mismatch: 1
+read index: 98 -> pos: 50176, mismatch: 0
+read index: 99 -> pos: 16866, mismatch: 0
+read index: 100 -> pos: 54291, mismatch: 0
+read index: 101 -> pos: 75647, mismatch: 0
+read index: 102 -> no match
+read index: 103 -> no match
+read index: 104 -> pos: 57921, mismatch: 0
+read index: 105 -> pos: 63175, mismatch: 0
+read index: 106 -> pos: 79963, mismatch: 1
+read index: 107 -> no match
+read index: 108 -> pos: 3348, mismatch: 0
+read index: 109 -> pos: 52725, mismatch: 0
+read index: 110 -> pos: 84966, mismatch: 1
+read index: 111 -> pos: 4989, mismatch: 0
+read index: 112 -> pos: 99405, mismatch: 0
+read index: 113 -> pos: 48358, mismatch: 0
+read index: 114 -> pos: 24307, mismatch: 0
+read index: 115 -> no match
+read index: 116 -> pos: 93015, mismatch: 0
+read index: 117 -> pos: 24128, mismatch: 0
+read index: 118 -> pos: 2217, mismatch: 1
+read index: 119 -> pos: 31400, mismatch: 1
+read index: 120 -> pos: 49717, mismatch: 0
+read index: 121 -> pos: 68643, mismatch: 0
+read index: 122 -> pos: 12361, mismatch: 0
+read index: 123 -> pos: 31431, mismatch: 1
+read index: 124 -> pos: 39000, mismatch: 0
+read index: 125 -> pos: 68173, mismatch: 1
+read index: 126 -> pos: 94623, mismatch: 0
+read index: 127 -> pos: 9298, mismatch: 0
+read index: 128 -> no match
+read index: 129 -> pos: 66987, mismatch: 0
+read index: 130 -> pos: 29774, mismatch: 0
+read index: 131 -> pos: 28593, mismatch: 1
+read index: 132 -> pos: 36942, mismatch: 1
+read index: 133 -> pos: 92329, mismatch: 0
+read index: 134 -> pos: 53561, mismatch: 0
+read index: 135 -> no match
+read index: 136 -> pos: 36705, mismatch: 0
+read index: 137 -> pos: 16238, mismatch: 1
+read index: 138 -> no match
+read index: 139 -> pos: 81666, mismatch: 0
+read index: 140 -> pos: 88521, mismatch: 0
+read index: 141 -> pos: 1655, mismatch: 0
+read index: 142 -> no match
+read index: 143 -> no match
+read index: 144 -> pos: 78956, mismatch: 0
+read index: 145 -> pos: 30854, mismatch: 0
+read index: 146 -> pos: 44178, mismatch: 1
+read index: 147 -> pos: 76128, mismatch: 0
+read index: 148 -> pos: 20425, mismatch: 1
+read index: 149 -> pos: 11039, mismatch: 0
+read index: 150 -> pos: 62629, mismatch: 0
+read index: 151 -> pos: 38352, mismatch: 0
+read index: 152 -> pos: 84473, mismatch: 0
+read index: 153 -> pos: 65626, mismatch: 0
+read index: 154 -> pos: 97343, mismatch: 0
+read index: 155 -> no match
+read index: 156 -> pos: 1134, mismatch: 0
+read index: 157 -> no match
+read index: 158 -> pos: 62046, mismatch: 0
+read index: 159 -> pos: 29673, mismatch: 0
+read index: 160 -> no match
+read index: 161 -> no match
+read index: 162 -> pos: 11151, mismatch: 1
+read index: 163 -> pos: 47688, mismatch: 0
+read index: 164 -> pos: 14416, mismatch: 0
+read index: 165 -> pos: 90388, mismatch: 0
+read index: 166 -> pos: 7759, mismatch: 0
+read index: 167 -> pos: 80215, mismatch: 0
+read index: 168 -> pos: 94159, mismatch: 1
+read index: 169 -> pos: 5818, mismatch: 0
+read index: 170 -> pos: 82495, mismatch: 1
+read index: 171 -> pos: 57922, mismatch: 0
+read index: 172 -> pos: 42802, mismatch: 0
+read index: 173 -> no match
+read index: 174 -> pos: 20836, mismatch: 0
+read index: 175 -> pos: 80408, mismatch: 0
+read index: 176 -> pos: 77136, mismatch: 0
+read index: 177 -> pos: 58671, mismatch: 0
+read index: 178 -> pos: 62199, mismatch: 0
+read index: 179 -> no match
+read index: 180 -> pos: 85165, mismatch: 0
+read index: 181 -> no match
+read index: 182 -> pos: 36820, mismatch: 0
+read index: 183 -> pos: 26084, mismatch: 0
+read index: 184 -> pos: 78155, mismatch: 1
+read index: 185 -> pos: 73834, mismatch: 1
+read index: 186 -> pos: 31022, mismatch: 0
+read index: 187 -> pos: 67754, mismatch: 0
+read index: 188 -> pos: 82954, mismatch: 1
+read index: 189 -> pos: 29016, mismatch: 1
+read index: 190 -> pos: 79574, mismatch: 0
+read index: 191 -> no match
+read index: 192 -> pos: 22406, mismatch: 1
+read index: 193 -> pos: 81398, mismatch: 1
+read index: 194 -> pos: 19903, mismatch: 0
+read index: 195 -> pos: 35488, mismatch: 0
+read index: 196 -> pos: 98731, mismatch: 1
+read index: 197 -> pos: 82074, mismatch: 0
+read index: 198 -> pos: 8093, mismatch: 0
+read index: 199 -> pos: 64746, mismatch: 0
+read index: 200 -> pos: 65783, mismatch: 0
+read index: 201 -> pos: 90350, mismatch: 0
+read index: 202 -> pos: 97153, mismatch: 0
+read index: 203 -> pos: 59361, mismatch: 0
+read index: 204 -> pos: 4929, mismatch: 1
+read index: 205 -> pos: 22405, mismatch: 0
+read index: 206 -> pos: 19361, mismatch: 0
+read index: 207 -> pos: 96448, mismatch: 0
+read index: 208 -> pos: 80374, mismatch: 0
+read index: 209 -> no match
+read index: 210 -> pos: 17458, mismatch: 0
+read index: 211 -> pos: 64711, mismatch: 0
+read index: 212 -> no match
+read index: 213 -> pos: 32698, mismatch: 0
+read index: 214 -> no match
+read index: 215 -> pos: 66312, mismatch: 0
+read index: 216 -> no match
+read index: 217 -> pos: 85694, mismatch: 0
+read index: 218 -> pos: 37905, mismatch: 0
+read index: 219 -> pos: 59824, mismatch: 0
+read index: 220 -> pos: 23971, mismatch: 0
+read index: 221 -> pos: 89061, mismatch: 0
+read index: 222 -> pos: 30021, mismatch: 0
+read index: 223 -> pos: 19004, mismatch: 1
+read index: 224 -> no match
+read index: 225 -> pos: 19019, mismatch: 0
+read index: 226 -> no match
+read index: 227 -> no match
+read index: 228 -> pos: 10783, mismatch: 1
+read index: 229 -> pos: 19826, mismatch: 0
+read index: 230 -> pos: 36263, mismatch: 0
+read index: 231 -> pos: 75457, mismatch: 0
+read index: 232 -> pos: 55275, mismatch: 0
+read index: 233 -> no match
+read index: 234 -> pos: 26966, mismatch: 1
+read index: 235 -> pos: 10728, mismatch: 0
+read index: 236 -> no match
+read index: 237 -> pos: 99206, mismatch: 0
+read index: 238 -> pos: 60356, mismatch: 0
+read index: 239 -> pos: 46736, mismatch: 0
+read index: 240 -> no match
+read index: 241 -> no match
+read index: 242 -> pos: 89967, mismatch: 0
+read index: 243 -> pos: 40330, mismatch: 0
+read index: 244 -> pos: 15124, mismatch: 0
+read index: 245 -> pos: 49333, mismatch: 1
+read index: 246 -> pos: 1179, mismatch: 0
+read index: 247 -> no match
+read index: 248 -> no match
+read index: 249 -> pos: 60193, mismatch: 0
+read index: 250 -> pos: 62475, mismatch: 0
+read index: 251 -> pos: 79974, mismatch: 0
+read index: 252 -> pos: 80488, mismatch: 0
+read index: 253 -> pos: 5829, mismatch: 0
+read index: 254 -> pos: 53856, mismatch: 0
+read index: 255 -> pos: 58927, mismatch: 0
+read index: 256 -> pos: 54953, mismatch: 0
+read index: 257 -> pos: 92934, mismatch: 0
+read index: 258 -> pos: 58489, mismatch: 0
+read index: 259 -> pos: 14861, mismatch: 0
+read index: 260 -> no match
+read index: 261 -> pos: 99029, mismatch: 1
+read index: 262 -> pos: 34179, mismatch: 0
+read index: 263 -> pos: 48371, mismatch: 0
+read index: 264 -> pos: 40800, mismatch: 0
+read index: 265 -> pos: 49757, mismatch: 0
+read index: 266 -> pos: 2366, mismatch: 0
+read index: 267 -> pos: 7080, mismatch: 0
+read index: 268 -> pos: 74823, mismatch: 1
+read index: 269 -> pos: 83194, mismatch: 0
+read index: 270 -> pos: 51859, mismatch: 0
+read index: 271 -> pos: 44161, mismatch: 1
+read index: 272 -> pos: 96873, mismatch: 0
+read index: 273 -> pos: 25579, mismatch: 1
+read index: 274 -> pos: 51375, mismatch: 0
+read index: 275 -> pos: 2531, mismatch: 0
+read index: 276 -> pos: 81716, mismatch: 1
+read index: 277 -> pos: 52088, mismatch: 1
+read index: 278 -> pos: 66189, mismatch: 0
+read index: 279 -> pos: 94465, mismatch: 0
+read index: 280 -> no match
+read index: 281 -> pos: 95890, mismatch: 1
+read index: 282 -> pos: 53630, mismatch: 0
+read index: 283 -> no match
+read index: 284 -> pos: 62215, mismatch: 0
+read index: 285 -> pos: 90622, mismatch: 1
+read index: 286 -> pos: 59774, mismatch: 1
+read index: 287 -> pos: 60754, mismatch: 0
+read index: 288 -> pos: 64635, mismatch: 0
+read index: 289 -> pos: 22272, mismatch: 0
+read index: 290 -> pos: 29371, mismatch: 0
+read index: 291 -> pos: 98466, mismatch: 0
+read index: 292 -> pos: 31270, mismatch: 0
+read index: 293 -> pos: 94304, mismatch: 1
+read index: 294 -> pos: 86928, mismatch: 0
+read index: 295 -> pos: 89462, mismatch: 0
+read index: 296 -> pos: 7242, mismatch: 1
+read index: 297 -> pos: 68094, mismatch: 1
+read index: 298 -> pos: 98381, mismatch: 0
+read index: 299 -> pos: 66258, mismatch: 0
+read index: 300 -> pos: 34516, mismatch: 0
+read index: 301 -> pos: 12405, mismatch: 1
+read index: 302 -> pos: 3019, mismatch: 0
+read index: 303 -> pos: 50527, mismatch: 0
+read index: 304 -> pos: 36392, mismatch: 0
+read index: 305 -> pos: 97741, mismatch: 0
+read index: 306 -> pos: 20318, mismatch: 1
+read index: 307 -> pos: 23954, mismatch: 0
+read index: 308 -> pos: 81200, mismatch: 0
+read index: 309 -> pos: 57769, mismatch: 1
+read index: 310 -> pos: 44746, mismatch: 0
+read index: 311 -> pos: 99096, mismatch: 0
+read index: 312 -> pos: 9974, mismatch: 1
+read index: 313 -> pos: 38042, mismatch: 0
+read index: 314 -> pos: 40894, mismatch: 0
+read index: 315 -> pos: 49123, mismatch: 0
+read index: 316 -> pos: 64978, mismatch: 0
+read index: 317 -> pos: 13847, mismatch: 0
+read index: 318 -> pos: 30222, mismatch: 1
+read index: 319 -> pos: 34580, mismatch: 0
+read index: 320 -> pos: 80100, mismatch: 0
+read index: 321 -> pos: 26886, mismatch: 0
+read index: 322 -> pos: 86576, mismatch: 0
+read index: 323 -> pos: 21076, mismatch: 1
+read index: 324 -> pos: 46713, mismatch: 0
+read index: 325 -> pos: 23230, mismatch: 0
+read index: 326 -> pos: 69420, mismatch: 0
+read index: 327 -> pos: 9554, mismatch: 0
+read index: 328 -> pos: 7373, mismatch: 0
+read index: 329 -> pos: 87330, mismatch: 0
+read index: 330 -> pos: 9856, mismatch: 0
+read index: 331 -> pos: 32478, mismatch: 0
+read index: 332 -> pos: 60249, mismatch: 0
+read index: 333 -> pos: 73350, mismatch: 1
+read index: 334 -> pos: 38315, mismatch: 0
+read index: 335 -> pos: 2350, mismatch: 0
+read index: 336 -> pos: 22466, mismatch: 1
+read index: 337 -> pos: 20033, mismatch: 0
+read index: 338 -> pos: 78012, mismatch: 0
+read index: 339 -> pos: 44092, mismatch: 0
+read index: 340 -> pos: 92869, mismatch: 0
+read index: 341 -> pos: 4002, mismatch: 0
+read index: 342 -> no match
+read index: 343 -> no match
+read index: 344 -> pos: 33715, mismatch: 1
+read index: 345 -> pos: 14032, mismatch: 0
+read index: 346 -> pos: 25479, mismatch: 0
+read index: 347 -> pos: 58349, mismatch: 0
+read index: 348 -> pos: 94105, mismatch: 0
+read index: 349 -> pos: 68374, mismatch: 0
+read index: 350 -> pos: 48990, mismatch: 0
+read index: 351 -> pos: 77705, mismatch: 0
+read index: 352 -> pos: 24439, mismatch: 0
+read index: 353 -> pos: 88013, mismatch: 0
+read index: 354 -> pos: 32494, mismatch: 0
+read index: 355 -> pos: 23000, mismatch: 0
+read index: 356 -> pos: 77253, mismatch: 0
+read index: 357 -> pos: 35850, mismatch: 0
+read index: 358 -> pos: 65233, mismatch: 0
+read index: 359 -> pos: 54598, mismatch: 0
+read index: 360 -> pos: 18273, mismatch: 1
+read index: 361 -> pos: 23645, mismatch: 0
+read index: 362 -> pos: 79920, mismatch: 0
+read index: 363 -> pos: 68893, mismatch: 0
+read index: 364 -> pos: 51911, mismatch: 0
+read index: 365 -> pos: 92944, mismatch: 0
+read index: 366 -> pos: 5262, mismatch: 0
+read index: 367 -> pos: 47283, mismatch: 0
+read index: 368 -> pos: 41908, mismatch: 0
+read index: 369 -> pos: 78996, mismatch: 0
+read index: 370 -> pos: 58590, mismatch: 0
+read index: 371 -> pos: 82447, mismatch: 0
+read index: 372 -> pos: 67485, mismatch: 0
+read index: 373 -> pos: 12815, mismatch: 0
+read index: 374 -> pos: 83717, mismatch: 1
+read index: 375 -> pos: 1734, mismatch: 1
+read index: 376 -> pos: 33478, mismatch: 0
+read index: 377 -> pos: 50921, mismatch: 0
+read index: 378 -> no match
+read index: 379 -> pos: 88086, mismatch: 0
+read index: 380 -> pos: 53191, mismatch: 1
+read index: 381 -> pos: 41778, mismatch: 1
+read index: 382 -> pos: 91973, mismatch: 1
+read index: 383 -> pos: 51111, mismatch: 0
+read index: 384 -> no match
+read index: 385 -> pos: 25890, mismatch: 0
+read index: 386 -> no match
+read index: 387 -> pos: 73462, mismatch: 0
+read index: 388 -> pos: 8715, mismatch: 0
+read index: 389 -> pos: 38022, mismatch: 0
+read index: 390 -> pos: 39513, mismatch: 0
+read index: 391 -> pos: 13994, mismatch: 0
+read index: 392 -> pos: 19803, mismatch: 0
+read index: 393 -> pos: 92058, mismatch: 1
+read index: 394 -> pos: 51177, mismatch: 0
+read index: 395 -> pos: 14219, mismatch: 0
+read index: 396 -> pos: 71966, mismatch: 0
+read index: 397 -> pos: 46170, mismatch: 0
+read index: 398 -> pos: 26883, mismatch: 0
+read index: 399 -> pos: 40978, mismatch: 0
+read index: 400 -> pos: 83018, mismatch: 1
+read index: 401 -> pos: 70847, mismatch: 0
+read index: 402 -> no match
+read index: 403 -> pos: 81694, mismatch: 0
+read index: 404 -> pos: 7133, mismatch: 0
+read index: 405 -> no match
+read index: 406 -> pos: 35341, mismatch: 0
+read index: 407 -> pos: 57196, mismatch: 0
+read index: 408 -> pos: 30513, mismatch: 0
+read index: 409 -> pos: 65490, mismatch: 0
+read index: 410 -> pos: 24855, mismatch: 0
+read index: 411 -> pos: 29273, mismatch: 0
+read index: 412 -> pos: 95948, mismatch: 0
+read index: 413 -> pos: 88854, mismatch: 1
+read index: 414 -> pos: 38320, mismatch: 0
+read index: 415 -> pos: 37207, mismatch: 0
+read index: 416 -> pos: 85019, mismatch: 0
+read index: 417 -> no match
+read index: 418 -> pos: 49503, mismatch: 0
+read index: 419 -> pos: 36066, mismatch: 0
+read index: 420 -> pos: 83752, mismatch: 0
+read index: 421 -> pos: 77527, mismatch: 1
+read index: 422 -> no match
+read index: 423 -> pos: 32053, mismatch: 0
+read index: 424 -> pos: 65866, mismatch: 0
+read index: 425 -> pos: 77931, mismatch: 1
+read index: 426 -> pos: 90979, mismatch: 0
+read index: 427 -> pos: 45248, mismatch: 1
+read index: 428 -> pos: 35360, mismatch: 1
+read index: 429 -> pos: 79852, mismatch: 0
+read index: 430 -> pos: 40022, mismatch: 0
+read index: 431 -> no match
+read index: 432 -> pos: 60561, mismatch: 0
+read index: 433 -> pos: 80423, mismatch: 0
+read index: 434 -> pos: 22252, mismatch: 0
+read index: 435 -> pos: 63525, mismatch: 0
+read index: 436 -> pos: 77003, mismatch: 0
+read index: 437 -> pos: 33301, mismatch: 0
+read index: 438 -> pos: 38930, mismatch: 0
+read index: 439 -> pos: 77712, mismatch: 0
+read index: 440 -> pos: 32244, mismatch: 0
+read index: 441 -> pos: 42856, mismatch: 0
+read index: 442 -> no match
+read index: 443 -> pos: 24533, mismatch: 1
+read index: 444 -> no match
+read index: 445 -> pos: 97230, mismatch: 0
+read index: 446 -> pos: 38964, mismatch: 0
+read index: 447 -> pos: 3240, mismatch: 1
+read index: 448 -> pos: 35779, mismatch: 1
+read index: 449 -> pos: 93001, mismatch: 0
+read index: 450 -> pos: 35836, mismatch: 0
+read index: 451 -> pos: 62710, mismatch: 0
+read index: 452 -> no match
+read index: 453 -> pos: 80199, mismatch: 0
+read index: 454 -> pos: 2742, mismatch: 1
+read index: 455 -> no match
+read index: 456 -> pos: 16195, mismatch: 1
+read index: 457 -> no match
+read index: 458 -> no match
+read index: 459 -> pos: 66767, mismatch: 0
+read index: 460 -> pos: 99619, mismatch: 1
+read index: 461 -> pos: 70121, mismatch: 0
+read index: 462 -> pos: 8613, mismatch: 0
+read index: 463 -> pos: 69145, mismatch: 0
+read index: 464 -> no match
+read index: 465 -> no match
+read index: 466 -> no match
+read index: 467 -> pos: 3038, mismatch: 0
+read index: 468 -> no match
+read index: 469 -> pos: 2716, mismatch: 1
+read index: 470 -> pos: 72751, mismatch: 0
+read index: 471 -> pos: 99539, mismatch: 0
+read index: 472 -> pos: 63819, mismatch: 0
+read index: 473 -> pos: 84773, mismatch: 0
+read index: 474 -> no match
+read index: 475 -> pos: 77239, mismatch: 0
+read index: 476 -> pos: 90652, mismatch: 0
+read index: 477 -> no match
+read index: 478 -> pos: 5762, mismatch: 0
+read index: 479 -> pos: 79921, mismatch: 0
+read index: 480 -> no match
+read index: 481 -> pos: 17994, mismatch: 0
+read index: 482 -> pos: 98676, mismatch: 0
+read index: 483 -> pos: 471, mismatch: 0
+read index: 484 -> pos: 71167, mismatch: 0
+read index: 485 -> pos: 37239, mismatch: 1
+read index: 486 -> pos: 99694, mismatch: 1
+read index: 487 -> pos: 30690, mismatch: 0
+read index: 488 -> no match
+read index: 489 -> pos: 24516, mismatch: 0
+read index: 490 -> pos: 69906, mismatch: 0
+read index: 491 -> pos: 61801, mismatch: 0
+read index: 492 -> pos: 2443, mismatch: 0
+read index: 493 -> pos: 10363, mismatch: 0
+read index: 494 -> pos: 74015, mismatch: 0
+read index: 495 -> pos: 68578, mismatch: 0
+read index: 496 -> pos: 33969, mismatch: 1
+read index: 497 -> pos: 19766, mismatch: 0
+read index: 498 -> pos: 38599, mismatch: 0
+read index: 499 -> pos: 34545, mismatch: 0
+read index: 500 -> pos: 58374, mismatch: 0
+read index: 501 -> pos: 71910, mismatch: 0
+read index: 502 -> pos: 57288, mismatch: 0
+read index: 503 -> pos: 18596, mismatch: 0
+read index: 504 -> pos: 19424, mismatch: 0
+read index: 505 -> pos: 31171, mismatch: 1
+read index: 506 -> pos: 4121, mismatch: 1
+read index: 507 -> pos: 26934, mismatch: 1
+read index: 508 -> pos: 63693, mismatch: 0
+read index: 509 -> pos: 74005, mismatch: 1
+read index: 510 -> pos: 83423, mismatch: 0
+read index: 511 -> no match
+read index: 512 -> pos: 90172, mismatch: 0
+read index: 513 -> pos: 34044, mismatch: 0
+read index: 514 -> pos: 18821, mismatch: 0
+read index: 515 -> pos: 23473, mismatch: 0
+read index: 516 -> pos: 62603, mismatch: 0
+read index: 517 -> pos: 56705, mismatch: 0
+read index: 518 -> pos: 5311, mismatch: 0
+read index: 519 -> pos: 82853, mismatch: 0
+read index: 520 -> pos: 55298, mismatch: 0
+read index: 521 -> pos: 61821, mismatch: 0
+read index: 522 -> pos: 78244, mismatch: 0
+read index: 523 -> pos: 47879, mismatch: 0
+read index: 524 -> pos: 91826, mismatch: 0
+read index: 525 -> pos: 16098, mismatch: 0
+read index: 526 -> pos: 45709, mismatch: 0
+read index: 527 -> pos: 41431, mismatch: 0
+read index: 528 -> pos: 33072, mismatch: 0
+read index: 529 -> pos: 67642, mismatch: 0
+read index: 530 -> pos: 23008, mismatch: 0
+read index: 531 -> no match
+read index: 532 -> pos: 28343, mismatch: 0
+read index: 533 -> pos: 93829, mismatch: 0
+read index: 534 -> pos: 34117, mismatch: 1
+read index: 535 -> pos: 86750, mismatch: 0
+read index: 536 -> pos: 84482, mismatch: 0
+read index: 537 -> pos: 57247, mismatch: 0
+read index: 538 -> pos: 76465, mismatch: 0
+read index: 539 -> pos: 47722, mismatch: 0
+read index: 540 -> pos: 42957, mismatch: 1
+read index: 541 -> pos: 2427, mismatch: 0
+read index: 542 -> pos: 96650, mismatch: 0
+read index: 543 -> pos: 75540, mismatch: 1
+read index: 544 -> no match
+read index: 545 -> pos: 52142, mismatch: 0
+read index: 546 -> no match
+read index: 547 -> no match
+read index: 548 -> pos: 55925, mismatch: 0
+read index: 549 -> pos: 28598, mismatch: 0
+read index: 550 -> pos: 47439, mismatch: 1
+read index: 551 -> no match
+read index: 552 -> pos: 65922, mismatch: 0
+read index: 553 -> no match
+read index: 554 -> pos: 14426, mismatch: 0
+read index: 555 -> pos: 5679, mismatch: 0
+read index: 556 -> no match
+read index: 557 -> pos: 79498, mismatch: 0
+read index: 558 -> pos: 20569, mismatch: 0
+read index: 559 -> pos: 167, mismatch: 0
+read index: 560 -> pos: 18709, mismatch: 0
+read index: 561 -> pos: 22192, mismatch: 1
+read index: 562 -> pos: 89007, mismatch: 0
+read index: 563 -> pos: 69242, mismatch: 0
+read index: 564 -> pos: 49126, mismatch: 0
+read index: 565 -> pos: 62369, mismatch: 1
+read index: 566 -> pos: 43795, mismatch: 0
+read index: 567 -> pos: 16936, mismatch: 0
+read index: 568 -> pos: 58307, mismatch: 0
+read index: 569 -> pos: 62668, mismatch: 1
+read index: 570 -> pos: 74743, mismatch: 0
+read index: 571 -> pos: 45108, mismatch: 1
+read index: 572 -> pos: 4479, mismatch: 1
+read index: 573 -> pos: 27430, mismatch: 0
+read index: 574 -> pos: 17098, mismatch: 0
+read index: 575 -> pos: 14751, mismatch: 0
+read index: 576 -> pos: 7198, mismatch: 0
+read index: 577 -> pos: 95494, mismatch: 0
+read index: 578 -> pos: 35646, mismatch: 0
+read index: 579 -> pos: 87464, mismatch: 0
+read index: 580 -> pos: 27052, mismatch: 1
+read index: 581 -> pos: 94698, mismatch: 0
+read index: 582 -> pos: 28253, mismatch: 0
+read index: 583 -> pos: 10101, mismatch: 0
+read index: 584 -> pos: 60039, mismatch: 0
+read index: 585 -> pos: 49096, mismatch: 0
+read index: 586 -> pos: 62913, mismatch: 0
+read index: 587 -> pos: 26071, mismatch: 0
+read index: 588 -> pos: 4371, mismatch: 1
+read index: 589 -> pos: 5637, mismatch: 0
+read index: 590 -> pos: 48641, mismatch: 0
+read index: 591 -> pos: 17718, mismatch: 0
+read index: 592 -> pos: 32936, mismatch: 0
+read index: 593 -> pos: 34588, mismatch: 1
+read index: 594 -> pos: 17989, mismatch: 0
+read index: 595 -> pos: 5210, mismatch: 0
+read index: 596 -> pos: 50959, mismatch: 0
+read index: 597 -> pos: 82119, mismatch: 0
+read index: 598 -> pos: 26166, mismatch: 0
+read index: 599 -> pos: 43019, mismatch: 0
+read index: 600 -> pos: 52457, mismatch: 0
+read index: 601 -> pos: 35707, mismatch: 0
+read index: 602 -> pos: 92897, mismatch: 0
+read index: 603 -> pos: 6664, mismatch: 1
+read index: 604 -> no match
+read index: 605 -> no match
+read index: 606 -> pos: 81565, mismatch: 1
+read index: 607 -> pos: 44145, mismatch: 0
+read index: 608 -> pos: 20900, mismatch: 0
+read index: 609 -> pos: 14372, mismatch: 0
+read index: 610 -> pos: 23804, mismatch: 0
+read index: 611 -> pos: 99303, mismatch: 0
+read index: 612 -> pos: 86818, mismatch: 0
+read index: 613 -> pos: 7399, mismatch: 0
+read index: 614 -> pos: 67712, mismatch: 0
+read index: 615 -> no match
+read index: 616 -> pos: 90178, mismatch: 1
+read index: 617 -> pos: 32879, mismatch: 0
+read index: 618 -> pos: 72644, mismatch: 0
+read index: 619 -> no match
+read index: 620 -> pos: 89298, mismatch: 0
+read index: 621 -> pos: 94885, mismatch: 0
+read index: 622 -> pos: 24482, mismatch: 1
+read index: 623 -> pos: 75638, mismatch: 0
+read index: 624 -> pos: 22361, mismatch: 0
+read index: 625 -> pos: 89591, mismatch: 0
+read index: 626 -> pos: 73822, mismatch: 0
+read index: 627 -> pos: 17549, mismatch: 0
+read index: 628 -> pos: 85707, mismatch: 1
+read index: 629 -> pos: 66445, mismatch: 1
+read index: 630 -> pos: 51414, mismatch: 0
+read index: 631 -> pos: 89692, mismatch: 1
+read index: 632 -> pos: 2731, mismatch: 0
+read index: 633 -> no match
+read index: 634 -> pos: 96789, mismatch: 0
+read index: 635 -> pos: 5820, mismatch: 1
+read index: 636 -> pos: 74003, mismatch: 0
+read index: 637 -> pos: 61015, mismatch: 1
+read index: 638 -> pos: 58053, mismatch: 0
+read index: 639 -> pos: 12720, mismatch: 1
+read index: 640 -> pos: 55712, mismatch: 1
+read index: 641 -> pos: 47301, mismatch: 0
+read index: 642 -> pos: 22038, mismatch: 1
+read index: 643 -> pos: 21387, mismatch: 0
+read index: 644 -> no match
+read index: 645 -> pos: 29214, mismatch: 0
+read index: 646 -> pos: 35015, mismatch: 0
+read index: 647 -> pos: 47729, mismatch: 0
+read index: 648 -> pos: 76826, mismatch: 1
+read index: 649 -> pos: 99461, mismatch: 1
+read index: 650 -> pos: 84358, mismatch: 0
+read index: 651 -> pos: 24528, mismatch: 0
+read index: 652 -> pos: 58009, mismatch: 1
+read index: 653 -> pos: 49784, mismatch: 0
+read index: 654 -> pos: 99046, mismatch: 0
+read index: 655 -> pos: 35333, mismatch: 0
+read index: 656 -> pos: 60055, mismatch: 0
+read index: 657 -> pos: 33713, mismatch: 0
+read index: 658 -> pos: 92777, mismatch: 0
+read index: 659 -> pos: 41589, mismatch: 0
+read index: 660 -> pos: 5800, mismatch: 0
+read index: 661 -> pos: 52491, mismatch: 0
+read index: 662 -> pos: 70565, mismatch: 0
+read index: 663 -> pos: 44781, mismatch: 0
+read index: 664 -> pos: 35912, mismatch: 0
+read index: 665 -> pos: 41938, mismatch: 0
+read index: 666 -> pos: 86929, mismatch: 0
+read index: 667 -> pos: 87699, mismatch: 1
+read index: 668 -> pos: 70509, mismatch: 0
+read index: 669 -> no match
+read index: 670 -> pos: 65013, mismatch: 0
+read index: 671 -> pos: 50536, mismatch: 1
+read index: 672 -> pos: 90946, mismatch: 1
+read index: 673 -> pos: 88665, mismatch: 1
+read index: 674 -> no match
+read index: 675 -> pos: 71568, mismatch: 0
+read index: 676 -> pos: 8180, mismatch: 1
+read index: 677 -> pos: 55587, mismatch: 1
+read index: 678 -> pos: 93379, mismatch: 0
+read index: 679 -> pos: 35090, mismatch: 1
+read index: 680 -> pos: 14688, mismatch: 0
+read index: 681 -> no match
+read index: 682 -> pos: 33060, mismatch: 0
+read index: 683 -> pos: 71133, mismatch: 0
+read index: 684 -> pos: 36452, mismatch: 0
+read index: 685 -> pos: 1820, mismatch: 0
+read index: 686 -> pos: 27127, mismatch: 0
+read index: 687 -> pos: 26148, mismatch: 0
+read index: 688 -> pos: 61671, mismatch: 0
+read index: 689 -> pos: 23296, mismatch: 0
+read index: 690 -> pos: 71882, mismatch: 0
+read index: 691 -> pos: 58572, mismatch: 0
+read index: 692 -> pos: 64948, mismatch: 0
+read index: 693 -> pos: 71710, mismatch: 1
+read index: 694 -> pos: 86251, mismatch: 0
+read index: 695 -> pos: 20929, mismatch: 1
+read index: 696 -> pos: 62606, mismatch: 1
+read index: 697 -> pos: 92561, mismatch: 0
+read index: 698 -> pos: 79130, mismatch: 0
+read index: 699 -> pos: 53249, mismatch: 0
+read index: 700 -> pos: 91955, mismatch: 0
+read index: 701 -> pos: 40268, mismatch: 0
+read index: 702 -> pos: 27635, mismatch: 0
+read index: 703 -> pos: 96971, mismatch: 0
+read index: 704 -> pos: 21343, mismatch: 0
+read index: 705 -> pos: 37854, mismatch: 0
+read index: 706 -> pos: 29130, mismatch: 0
+read index: 707 -> pos: 13274, mismatch: 0
+read index: 708 -> pos: 68072, mismatch: 0
+read index: 709 -> pos: 34911, mismatch: 0
+read index: 710 -> no match
+read index: 711 -> pos: 4196, mismatch: 1
+read index: 712 -> pos: 92052, mismatch: 1
+read index: 713 -> pos: 38974, mismatch: 1
+read index: 714 -> no match
+read index: 715 -> pos: 52235, mismatch: 0
+read index: 716 -> pos: 33441, mismatch: 0
+read index: 717 -> pos: 48026, mismatch: 0
+read index: 718 -> pos: 18171, mismatch: 1
+read index: 719 -> pos: 30392, mismatch: 0
+read index: 720 -> no match
+read index: 721 -> pos: 42968, mismatch: 0
+read index: 722 -> pos: 3165, mismatch: 0
+read index: 723 -> pos: 42046, mismatch: 0
+read index: 724 -> pos: 8536, mismatch: 0
+read index: 725 -> pos: 70866, mismatch: 0
+read index: 726 -> no match
+read index: 727 -> no match
+read index: 728 -> pos: 60717, mismatch: 0
+read index: 729 -> pos: 35454, mismatch: 0
+read index: 730 -> pos: 95382, mismatch: 1
+read index: 731 -> no match
+read index: 732 -> pos: 77261, mismatch: 0
+read index: 733 -> pos: 50542, mismatch: 0
+read index: 734 -> pos: 93276, mismatch: 0
+read index: 735 -> pos: 37245, mismatch: 0
+read index: 736 -> pos: 6910, mismatch: 0
+read index: 737 -> pos: 28493, mismatch: 0
+read index: 738 -> pos: 1142, mismatch: 0
+read index: 739 -> pos: 22807, mismatch: 0
+read index: 740 -> pos: 25982, mismatch: 0
+read index: 741 -> pos: 90032, mismatch: 0
+read index: 742 -> pos: 83294, mismatch: 1
+read index: 743 -> pos: 80829, mismatch: 0
+read index: 744 -> pos: 80033, mismatch: 0
+read index: 745 -> pos: 43963, mismatch: 0
+read index: 746 -> pos: 79898, mismatch: 0
+read index: 747 -> pos: 91589, mismatch: 1
+read index: 748 -> pos: 83845, mismatch: 0
+read index: 749 -> pos: 9354, mismatch: 0
+read index: 750 -> pos: 40172, mismatch: 0
+read index: 751 -> pos: 43559, mismatch: 0
+read index: 752 -> pos: 1841, mismatch: 0
+read index: 753 -> pos: 67315, mismatch: 1
+read index: 754 -> pos: 85684, mismatch: 0
+read index: 755 -> pos: 97833, mismatch: 0
+read index: 756 -> pos: 63358, mismatch: 0
+read index: 757 -> pos: 32499, mismatch: 0
+read index: 758 -> no match
+read index: 759 -> pos: 4870, mismatch: 1
+read index: 760 -> no match
+read index: 761 -> pos: 65278, mismatch: 0
+read index: 762 -> pos: 64349, mismatch: 1
+read index: 763 -> pos: 20433, mismatch: 0
+read index: 764 -> no match
+read index: 765 -> pos: 94093, mismatch: 0
+read index: 766 -> pos: 71462, mismatch: 0
+read index: 767 -> pos: 89419, mismatch: 0
+read index: 768 -> pos: 25761, mismatch: 0
+read index: 769 -> pos: 5386, mismatch: 0
+read index: 770 -> pos: 35883, mismatch: 0
+read index: 771 -> pos: 68001, mismatch: 1
+read index: 772 -> pos: 48575, mismatch: 0
+read index: 773 -> pos: 52635, mismatch: 0
+read index: 774 -> pos: 17179, mismatch: 1
+read index: 775 -> pos: 86718, mismatch: 0
+read index: 776 -> pos: 28917, mismatch: 0
+read index: 777 -> no match
+read index: 778 -> pos: 8306, mismatch: 0
+read index: 779 -> pos: 41886, mismatch: 0
+read index: 780 -> pos: 65639, mismatch: 0
+read index: 781 -> no match
+read index: 782 -> pos: 35036, mismatch: 1
+read index: 783 -> pos: 73764, mismatch: 0
+read index: 784 -> pos: 62155, mismatch: 0
+read index: 785 -> pos: 27229, mismatch: 1
+read index: 786 -> pos: 93486, mismatch: 0
+read index: 787 -> no match
+read index: 788 -> pos: 17770, mismatch: 0
+read index: 789 -> pos: 34441, mismatch: 1
+read index: 790 -> pos: 47500, mismatch: 1
+read index: 791 -> pos: 56221, mismatch: 1
+read index: 792 -> pos: 66829, mismatch: 0
+read index: 793 -> pos: 8614, mismatch: 1
+read index: 794 -> pos: 15841, mismatch: 0
+read index: 795 -> no match
+read index: 796 -> pos: 13610, mismatch: 1
+read index: 797 -> pos: 29033, mismatch: 0
+read index: 798 -> pos: 62476, mismatch: 0
+read index: 799 -> pos: 62846, mismatch: 1
+read index: 800 -> pos: 48164, mismatch: 1
+read index: 801 -> pos: 11126, mismatch: 1
+read index: 802 -> pos: 97074, mismatch: 1
+read index: 803 -> no match
+read index: 804 -> no match
+read index: 805 -> pos: 34941, mismatch: 0
+read index: 806 -> pos: 3950, mismatch: 0
+read index: 807 -> pos: 20919, mismatch: 0
+read index: 808 -> pos: 34625, mismatch: 0
+read index: 809 -> pos: 36303, mismatch: 0
+read index: 810 -> no match
+read index: 811 -> no match
+read index: 812 -> no match
+read index: 813 -> pos: 33918, mismatch: 0
+read index: 814 -> no match
+read index: 815 -> pos: 14030, mismatch: 0
+read index: 816 -> pos: 2903, mismatch: 0
+read index: 817 -> pos: 50693, mismatch: 0
+read index: 818 -> pos: 32569, mismatch: 0
+read index: 819 -> pos: 86337, mismatch: 0
+read index: 820 -> pos: 49520, mismatch: 0
+read index: 821 -> pos: 38356, mismatch: 0
+read index: 822 -> pos: 29606, mismatch: 0
+read index: 823 -> pos: 45490, mismatch: 0
+read index: 824 -> pos: 91948, mismatch: 0
+read index: 825 -> pos: 65957, mismatch: 1
+read index: 826 -> pos: 53864, mismatch: 0
+read index: 827 -> pos: 39024, mismatch: 0
+read index: 828 -> no match
+read index: 829 -> pos: 94332, mismatch: 0
+read index: 830 -> pos: 27125, mismatch: 1
+read index: 831 -> pos: 90132, mismatch: 0
+read index: 832 -> pos: 46121, mismatch: 0
+read index: 833 -> pos: 72911, mismatch: 0
+read index: 834 -> pos: 90561, mismatch: 0
+read index: 835 -> pos: 57016, mismatch: 0
+read index: 836 -> pos: 6927, mismatch: 0
+read index: 837 -> pos: 49494, mismatch: 0
+read index: 838 -> no match
+read index: 839 -> pos: 39584, mismatch: 0
+read index: 840 -> pos: 8077, mismatch: 0
+read index: 841 -> pos: 90022, mismatch: 0
+read index: 842 -> pos: 46653, mismatch: 0
+read index: 843 -> pos: 86868, mismatch: 0
+read index: 844 -> pos: 20454, mismatch: 0
+read index: 845 -> pos: 90875, mismatch: 0
+read index: 846 -> pos: 91014, mismatch: 0
+read index: 847 -> pos: 12338, mismatch: 0
+read index: 848 -> no match
+read index: 849 -> pos: 9325, mismatch: 0
+read index: 850 -> pos: 69469, mismatch: 0
+read index: 851 -> pos: 28663, mismatch: 0
+read index: 852 -> pos: 25282, mismatch: 0
+read index: 853 -> pos: 64213, mismatch: 0
+read index: 854 -> pos: 10331, mismatch: 0
+read index: 855 -> pos: 21730, mismatch: 1
+read index: 856 -> pos: 55276, mismatch: 0
+read index: 857 -> pos: 34306, mismatch: 0
+read index: 858 -> no match
+read index: 859 -> pos: 93023, mismatch: 1
+read index: 860 -> pos: 3865, mismatch: 1
+read index: 861 -> pos: 22363, mismatch: 0
+read index: 862 -> pos: 2949, mismatch: 0
+read index: 863 -> no match
+read index: 864 -> pos: 58226, mismatch: 0
+read index: 865 -> pos: 58980, mismatch: 1
+read index: 866 -> pos: 46934, mismatch: 0
+read index: 867 -> pos: 49503, mismatch: 0
+read index: 868 -> pos: 49844, mismatch: 0
+read index: 869 -> pos: 12984, mismatch: 0
+read index: 870 -> no match
+read index: 871 -> pos: 72127, mismatch: 1
+read index: 872 -> pos: 3579, mismatch: 0
+read index: 873 -> pos: 57816, mismatch: 0
+read index: 874 -> pos: 4580, mismatch: 0
+read index: 875 -> pos: 11482, mismatch: 1
+read index: 876 -> pos: 10057, mismatch: 0
+read index: 877 -> pos: 47424, mismatch: 0
+read index: 878 -> pos: 65999, mismatch: 0
+read index: 879 -> pos: 67932, mismatch: 1
+read index: 880 -> pos: 94160, mismatch: 0
+read index: 881 -> pos: 37635, mismatch: 0
+read index: 882 -> pos: 1367, mismatch: 0
+read index: 883 -> pos: 14488, mismatch: 0
+read index: 884 -> no match
+read index: 885 -> no match
+read index: 886 -> pos: 76918, mismatch: 0
+read index: 887 -> pos: 68738, mismatch: 0
+read index: 888 -> no match
+read index: 889 -> pos: 74204, mismatch: 1
+read index: 890 -> pos: 86893, mismatch: 1
+read index: 891 -> pos: 19826, mismatch: 0
+read index: 892 -> pos: 89675, mismatch: 0
+read index: 893 -> pos: 33901, mismatch: 0
+read index: 894 -> pos: 42401, mismatch: 0
+read index: 895 -> pos: 69535, mismatch: 0
+read index: 896 -> pos: 58634, mismatch: 0
+read index: 897 -> no match
+read index: 898 -> pos: 19322, mismatch: 0
+read index: 899 -> pos: 19519, mismatch: 0
+read index: 900 -> pos: 52532, mismatch: 0
+read index: 901 -> pos: 98158, mismatch: 0
+read index: 902 -> pos: 41698, mismatch: 0
+read index: 903 -> pos: 4909, mismatch: 0
+read index: 904 -> pos: 9581, mismatch: 0
+read index: 905 -> no match
+read index: 906 -> pos: 11356, mismatch: 0
+read index: 907 -> pos: 12187, mismatch: 0
+read index: 908 -> pos: 1699, mismatch: 0
+read index: 909 -> pos: 39286, mismatch: 0
+read index: 910 -> pos: 341, mismatch: 0
+read index: 911 -> pos: 13204, mismatch: 1
+read index: 912 -> pos: 83291, mismatch: 0
+read index: 913 -> pos: 91820, mismatch: 0
+read index: 914 -> pos: 60432, mismatch: 0
+read index: 915 -> pos: 83047, mismatch: 0
+read index: 916 -> pos: 27446, mismatch: 0
+read index: 917 -> pos: 71360, mismatch: 0
+read index: 918 -> pos: 1300, mismatch: 0
+read index: 919 -> pos: 22718, mismatch: 0
+read index: 920 -> pos: 48280, mismatch: 0
+read index: 921 -> pos: 61503, mismatch: 0
+read index: 922 -> pos: 56812, mismatch: 0
+read index: 923 -> pos: 28762, mismatch: 0
+read index: 924 -> pos: 51789, mismatch: 1
+read index: 925 -> pos: 74378, mismatch: 0
+read index: 926 -> pos: 7264, mismatch: 0
+read index: 927 -> pos: 69753, mismatch: 0
+read index: 928 -> pos: 31914, mismatch: 0
+read index: 929 -> pos: 36873, mismatch: 0
+read index: 930 -> pos: 11489, mismatch: 0
+read index: 931 -> pos: 88901, mismatch: 1
+read index: 932 -> pos: 60779, mismatch: 0
+read index: 933 -> pos: 70731, mismatch: 0
+read index: 934 -> pos: 53963, mismatch: 0
+read index: 935 -> no match
+read index: 936 -> pos: 93287, mismatch: 0
+read index: 937 -> pos: 41553, mismatch: 0
+read index: 938 -> pos: 41657, mismatch: 1
+read index: 939 -> pos: 75050, mismatch: 0
+read index: 940 -> pos: 77585, mismatch: 1
+read index: 941 -> pos: 58056, mismatch: 0
+read index: 942 -> pos: 80415, mismatch: 1
+read index: 943 -> pos: 83747, mismatch: 0
+read index: 944 -> pos: 71346, mismatch: 0
+read index: 945 -> pos: 46288, mismatch: 0
+read index: 946 -> pos: 4683, mismatch: 0
+read index: 947 -> pos: 52782, mismatch: 0
+read index: 948 -> pos: 79807, mismatch: 1
+read index: 949 -> pos: 99887, mismatch: 1
+read index: 950 -> pos: 66724, mismatch: 0
+read index: 951 -> pos: 45500, mismatch: 0
+read index: 952 -> pos: 86157, mismatch: 0
+read index: 953 -> pos: 24261, mismatch: 0
+read index: 954 -> pos: 92866, mismatch: 0
+read index: 955 -> pos: 17497, mismatch: 0
+read index: 956 -> pos: 39960, mismatch: 0
+read index: 957 -> pos: 54821, mismatch: 0
+read index: 958 -> no match
+read index: 959 -> pos: 79616, mismatch: 0
+read index: 960 -> pos: 5308, mismatch: 0
+read index: 961 -> no match
+read index: 962 -> pos: 80147, mismatch: 0
+read index: 963 -> pos: 86747, mismatch: 0
+read index: 964 -> pos: 49267, mismatch: 0
+read index: 965 -> pos: 19086, mismatch: 0
+read index: 966 -> pos: 87005, mismatch: 0
+read index: 967 -> pos: 11809, mismatch: 1
+read index: 968 -> pos: 59212, mismatch: 0
+read index: 969 -> pos: 19890, mismatch: 0
+read index: 970 -> pos: 32828, mismatch: 0
+read index: 971 -> pos: 51796, mismatch: 0
+read index: 972 -> pos: 79526, mismatch: 0
+read index: 973 -> no match
+read index: 974 -> pos: 12886, mismatch: 0
+read index: 975 -> pos: 55221, mismatch: 0
+read index: 976 -> pos: 73388, mismatch: 0
+read index: 977 -> pos: 12048, mismatch: 0
+read index: 978 -> pos: 3032, mismatch: 0
+read index: 979 -> pos: 56972, mismatch: 0
+read index: 980 -> pos: 61063, mismatch: 1
+read index: 981 -> pos: 87560, mismatch: 1
+read index: 982 -> pos: 56985, mismatch: 0
+read index: 983 -> pos: 96583, mismatch: 1
+read index: 984 -> pos: 76776, mismatch: 0
+read index: 985 -> pos: 20759, mismatch: 0
+read index: 986 -> pos: 80666, mismatch: 0
+read index: 987 -> pos: 94256, mismatch: 1
+read index: 988 -> no match
+read index: 989 -> pos: 36838, mismatch: 0
+read index: 990 -> pos: 79393, mismatch: 0
+read index: 991 -> pos: 6308, mismatch: 0
+read index: 992 -> no match
+read index: 993 -> pos: 6326, mismatch: 0
+read index: 994 -> pos: 2769, mismatch: 0
+read index: 995 -> pos: 39358, mismatch: 1
+read index: 996 -> pos: 54740, mismatch: 0
+read index: 997 -> pos: 51414, mismatch: 0
+read index: 998 -> pos: 91073, mismatch: 0
+read index: 999 -> no match

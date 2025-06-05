@@ -160,8 +160,8 @@ int main() {
     auto total_start = high_resolution_clock::now();
 
     auto t1 = high_resolution_clock::now();
-    string reference = loadReference("reference_10.txt");
-    vector<string> reads = loadReads("reads_20.txt");
+    string reference = loadReference("reference.txt");
+    vector<string> reads = loadReads("reads.txt");
     auto t2 = high_resolution_clock::now();
     printTime("[1] 입력 로딩:", t1, t2);
 
@@ -172,7 +172,7 @@ int main() {
     printTime("[2] SA + LCP 생성:", t1, t2);
 
     t1 = high_resolution_clock::now();
-    ofstream fout("result_final.txt");
+    ofstream fout("result.txt");
 
     #pragma omp parallel for schedule(dynamic)
     for (int i = 0; i < reads.size(); ++i) {
